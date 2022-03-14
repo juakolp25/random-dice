@@ -4,6 +4,8 @@ In this repository I use JavaScript, Css and Htlm to generate random numbers bas
 
 To view the page below, I leave the link:
 
- https://juakolp86.github.io/random-dice/
+<a href="http://juakolp86.github.io/random-dice/" target="_blank">Random Dice</a>
+
+Vista previa:
 
 <img src="Captura.JPG" style="width: 90%; height: auto; text-align: center; align-items: center; margin: auto;">
