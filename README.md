@@ -6,4 +6,4 @@ To view the page below, I leave the link:
 
  https://juakolp86.github.io/random-dice/
 
-<img src="Captura.jpg" style="width: 90%; height: auto; text-align: center; align-items: center; margin: auto;">
+<img src="Captura.JPG" style="width: 90%; height: auto; text-align: center; align-items: center; margin: auto;">
