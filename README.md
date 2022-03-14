@@ -4,3 +4,4 @@ In this repository I use JavaScript, Css and Htlm to generate random numbers bas
 
 To view the page below, I leave the link:
 
+ https://juakolp86.github.io/random-dice/
