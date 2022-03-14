@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(95, 23, 23);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+}
+
+#container-principal{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(11, 59, 49, 0.322);
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(12, 5, 29);
+    border-radius: 5px;
+}
+
+.tittle{
+    font-size: 2.7vh;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.opcions-dice{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+.opcion-one, .opcion-two{
+    font-size: 2.4vh;
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+input#count-dice, select#sides{
+    width: 70px;
+    font-size: 2.4vh;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(12, 5, 29);
+    background-color: rgba(45, 44, 48, 0.384);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+#roll-btn{
+    font-size: 2.4vh;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(54, 34, 100);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+#roll-btn:hover {
+    background-color: rgb(87, 69, 129);
+    outline: rgba(11, 59, 49, 0.322);
+}
+
+.output-results{
+    width: 80%;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-size: 2.4vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#final-score{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.result{
+    width: 50px;
+    height: auto;
+    background-color: rgb(20, 12, 39);
+    border-radius: 3px;
+    border: 1px solid rgb(255, 255, 255);
+}
