@@ -1,4 +1,4 @@
-# random-dice
+# Project submitted for Codementor
 
 In this repository I use JavaScript, Css and Htlm to generate random numbers based on the number of heads the die can have.
 
